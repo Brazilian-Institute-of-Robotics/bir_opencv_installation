@@ -12,7 +12,7 @@ This package has the intention of accelerate the OpenCV installation process by 
 ```
 chmod +x .\opencv_installation.sh
 ```
-3. Run the bash file.
+4. Run the bash file.
 
 ```
 .\opencv_installation.sh
